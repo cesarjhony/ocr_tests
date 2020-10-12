@@ -1,0 +1,1959 @@
+{
+  "status": "succeeded",
+  "createdDateTime": "2020-10-11T04:38:08Z",
+  "lastUpdatedDateTime": "2020-10-11T04:38:10Z",
+  "analyzeResult": {
+    "version": "2.0.0",
+    "readResults": [{
+      "page": 1,
+      "language": "en",
+      "angle": -0.3357,
+      "width": 1015,
+      "height": 612,
+      "unit": "pixel",
+      "lines": [{
+        "boundingBox": [89, 14, 166, 15, 166, 23, 89, 21],
+        "text": "Identificacio do emitente",
+        "words": [{
+          "boundingBox": [90, 15, 128, 15, 128, 23, 90, 22],
+          "text": "Identificacio",
+          "confidence": 0.274
+        }, {
+          "boundingBox": [129, 15, 137, 15, 137, 23, 129, 23],
+          "text": "do",
+          "confidence": 0.902
+        }, {
+          "boundingBox": [139, 15, 165, 16, 166, 23, 139, 23],
+          "text": "emitente",
+          "confidence": 0.428
+        }]
+      }, {
+        "boundingBox": [361, 15, 411, 16, 411, 26, 361, 26],
+        "text": "DANFE",
+        "words": [{
+          "boundingBox": [363, 16, 410, 16, 409, 27, 363, 26],
+          "text": "DANFE",
+          "confidence": 0.959
+        }]
+      }, {
+        "boundingBox": [90, 26, 246, 26, 246, 36, 90, 36],
+        "text": "Outra Empresa de Mentira para Testes",
+        "words": [{
+          "boundingBox": [91, 27, 115, 27, 115, 36, 91, 36],
+          "text": "Outra",
+          "confidence": 0.892
+        }, {
+          "boundingBox": [116, 27, 153, 27, 153, 37, 116, 36],
+          "text": "Empresa",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [154, 27, 164, 27, 164, 37, 154, 37],
+          "text": "de",
+          "confidence": 0.952
+        }, {
+          "boundingBox": [166, 27, 198, 27, 198, 37, 166, 37],
+          "text": "Mentira",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [200, 27, 219, 27, 219, 36, 200, 37],
+          "text": "para",
+          "confidence": 0.953
+        }, {
+          "boundingBox": [222, 27, 246, 27, 246, 36, 222, 36],
+          "text": "Testes",
+          "confidence": 0.958
+        }]
+      }, {
+        "boundingBox": [345, 28, 428, 28, 428, 36, 345, 35],
+        "text": "DOCUMENTO AUXILIAR BA",
+        "words": [{
+          "boundingBox": [346, 28, 385, 28, 386, 36, 347, 35],
+          "text": "DOCUMENTO",
+          "confidence": 0.252
+        }, {
+          "boundingBox": [388, 28, 417, 29, 417, 36, 388, 36],
+          "text": "AUXILIAR",
+          "confidence": 0.252
+        }, {
+          "boundingBox": [418, 29, 428, 29, 428, 36, 418, 36],
+          "text": "BA",
+          "confidence": 0.420
+        }]
+      }, {
+        "boundingBox": [89, 39, 180, 40, 180, 50, 89, 49],
+        "text": "LO 12 S/N, QD 35. LT.II",
+        "words": [{
+          "boundingBox": [90, 40, 102, 40, 102, 50, 90, 49],
+          "text": "LO",
+          "confidence": 0.908
+        }, {
+          "boundingBox": [104, 40, 112, 40, 112, 50, 104, 50],
+          "text": "12",
+          "confidence": 0.875
+        }, {
+          "boundingBox": [114, 40, 130, 41, 130, 50, 114, 50],
+          "text": "S/N,",
+          "confidence": 0.897
+        }, {
+          "boundingBox": [131, 41, 143, 41, 143, 50, 131, 50],
+          "text": "QD",
+          "confidence": 0.762
+        }, {
+          "boundingBox": [146, 41, 157, 41, 157, 50, 146, 50],
+          "text": "35.",
+          "confidence": 0.916
+        }, {
+          "boundingBox": [159, 41, 180, 41, 180, 50, 159, 50],
+          "text": "LT.II",
+          "confidence": 0.403
+        }]
+      }, {
+        "boundingBox": [346, 34, 427, 35, 427, 42, 346, 42],
+        "text": "NOTA FISCAL ELETRONICA",
+        "words": [{
+          "boundingBox": [347, 35, 363, 35, 364, 42, 347, 42],
+          "text": "NOTA",
+          "confidence": 0.252
+        }, {
+          "boundingBox": [365, 35, 387, 35, 387, 43, 365, 42],
+          "text": "FISCAL",
+          "confidence": 0.252
+        }, {
+          "boundingBox": [388, 35, 427, 35, 428, 42, 388, 43],
+          "text": "ELETRONICA",
+          "confidence": 0.276
+        }]
+      }, {
+        "boundingBox": [89, 50, 167, 51, 167, 59, 89, 59],
+        "text": "DISTRITO INDUSTRIAL",
+        "words": [{
+          "boundingBox": [90, 51, 121, 51, 122, 59, 90, 59],
+          "text": "DISTRITO",
+          "confidence": 0.871
+        }, {
+          "boundingBox": [123, 51, 166, 51, 167, 60, 123, 59],
+          "text": "INDUSTRIAL",
+          "confidence": 0.942
+        }]
+      }, {
+        "boundingBox": [328, 44, 386, 44, 386, 54, 328, 54],
+        "text": "0-ENTRADA",
+        "words": [{
+          "boundingBox": [329, 46, 386, 45, 386, 55, 329, 54],
+          "text": "0-ENTRADA",
+          "confidence": 0.457
+        }]
+      }, {
+        "boundingBox": [491, 43, 558, 43, 558, 52, 491, 52],
+        "text": "CHAVE DE ACESSO",
+        "words": [{
+          "boundingBox": [492, 43, 516, 44, 516, 52, 492, 52],
+          "text": "CHAVE",
+          "confidence": 0.948
+        }, {
+          "boundingBox": [518, 44, 528, 44, 528, 52, 518, 52],
+          "text": "DE",
+          "confidence": 0.909
+        }, {
+          "boundingBox": [530, 44, 557, 43, 557, 52, 530, 52],
+          "text": "ACESSO",
+          "confidence": 0.875
+        }]
+      }, {
+        "boundingBox": [89, 60, 139, 61, 139, 69, 89, 69],
+        "text": "MALCON -LO",
+        "words": [{
+          "boundingBox": [90, 61, 120, 61, 120, 70, 90, 69],
+          "text": "MALCON",
+          "confidence": 0.925
+        }, {
+          "boundingBox": [122, 61, 139, 61, 139, 70, 122, 70],
+          "text": "-LO",
+          "confidence": 0.762
+        }]
+      }, {
+        "boundingBox": [328, 55, 371, 54, 371, 63, 328, 64],
+        "text": "1 - SAIDA",
+        "words": [{
+          "boundingBox": [329, 55, 333, 55, 334, 64, 329, 64],
+          "text": "1",
+          "confidence": 0.799
+        }, {
+          "boundingBox": [335, 55, 341, 55, 341, 64, 335, 64],
+          "text": "-",
+          "confidence": 0.882
+        }, {
+          "boundingBox": [343, 55, 370, 54, 371, 64, 343, 64],
+          "text": "SAIDA",
+          "confidence": 0.957
+        }]
+      }, {
+        "boundingBox": [493, 53, 749, 52, 749, 62, 493, 64],
+        "text": "52201234 5678 0200 0203 5500 1000 0079 9876 7498",
+        "words": [{
+          "boundingBox": [493, 54, 540, 53, 541, 64, 493, 64],
+          "text": "52201234",
+          "confidence": 0.860
+        }, {
+          "boundingBox": [545, 53, 569, 53, 569, 64, 545, 64],
+          "text": "5678",
+          "confidence": 0.942
+        }, {
+          "boundingBox": [571, 53, 595, 53, 595, 64, 571, 64],
+          "text": "0200",
+          "confidence": 0.918
+        }, {
+          "boundingBox": [597, 53, 621, 53, 622, 64, 597, 64],
+          "text": "0203",
+          "confidence": 0.955
+        }, {
+          "boundingBox": [623, 53, 648, 52, 648, 63, 624, 64],
+          "text": "5500",
+          "confidence": 0.956
+        }, {
+          "boundingBox": [650, 52, 673, 52, 673, 63, 651, 63],
+          "text": "1000",
+          "confidence": 0.896
+        }, {
+          "boundingBox": [675, 52, 697, 52, 697, 63, 675, 63],
+          "text": "0079",
+          "confidence": 0.959
+        }, {
+          "boundingBox": [699, 52, 724, 52, 724, 63, 699, 63],
+          "text": "9876",
+          "confidence": 0.951
+        }, {
+          "boundingBox": [727, 52, 749, 52, 749, 62, 727, 63],
+          "text": "7498",
+          "confidence": 0.958
+        }]
+      }, {
+        "boundingBox": [88, 70, 144, 70, 144, 79, 88, 79],
+        "text": "CEP S5250-200",
+        "words": [{
+          "boundingBox": [90, 71, 103, 71, 103, 79, 90, 80],
+          "text": "CEP",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [105, 71, 142, 71, 142, 80, 105, 79],
+          "text": "S5250-200",
+          "confidence": 0.304
+        }]
+      }, {
+        "boundingBox": [329, 68, 375, 68, 375, 78, 329, 78],
+        "text": "N\": 0005274",
+        "words": [{
+          "boundingBox": [330, 68, 339, 69, 339, 78, 330, 78],
+          "text": "N\":",
+          "confidence": 0.289
+        }, {
+          "boundingBox": [341, 69, 375, 69, 375, 78, 341, 78],
+          "text": "0005274",
+          "confidence": 0.946
+        }]
+      }, {
+        "boundingBox": [378, 70, 421, 70, 421, 78, 378, 78],
+        "text": "- FL1/1",
+        "words": [{
+          "boundingBox": [383, 70, 389, 70, 389, 79, 383, 79],
+          "text": "-",
+          "confidence": 0.884
+        }, {
+          "boundingBox": [394, 70, 421, 70, 421, 78, 394, 78],
+          "text": "FL1/1",
+          "confidence": 0.660
+        }]
+      }, {
+        "boundingBox": [492, 68, 685, 67, 685, 76, 492, 77],
+        "text": "Consulta de autenticodade no portal nacional da NF-e",
+        "words": [{
+          "boundingBox": [493, 68, 525, 68, 526, 77, 494, 77],
+          "text": "Consulta",
+          "confidence": 0.845
+        }, {
+          "boundingBox": [527, 68, 536, 68, 536, 77, 527, 77],
+          "text": "de",
+          "confidence": 0.860
+        }, {
+          "boundingBox": [538, 68, 587, 68, 587, 77, 538, 77],
+          "text": "autenticodade",
+          "confidence": 0.040
+        }, {
+          "boundingBox": [588, 68, 599, 68, 599, 77, 589, 77],
+          "text": "no",
+          "confidence": 0.955
+        }, {
+          "boundingBox": [600, 68, 621, 68, 621, 77, 601, 77],
+          "text": "portal",
+          "confidence": 0.909
+        }, {
+          "boundingBox": [623, 68, 653, 68, 654, 77, 623, 77],
+          "text": "nacional",
+          "confidence": 0.942
+        }, {
+          "boundingBox": [655, 68, 665, 68, 665, 77, 656, 77],
+          "text": "da",
+          "confidence": 0.824
+        }, {
+          "boundingBox": [667, 68, 685, 68, 685, 77, 667, 77],
+          "text": "NF-e",
+          "confidence": 0.879
+        }]
+      }, {
+        "boundingBox": [329, 79, 364, 79, 364, 88, 329, 88],
+        "text": "SERIE I",
+        "words": [{
+          "boundingBox": [329, 79, 357, 79, 357, 89, 329, 89],
+          "text": "SERIE",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [360, 79, 365, 80, 364, 89, 359, 89],
+          "text": "I",
+          "confidence": 0.333
+        }]
+      }, {
+        "boundingBox": [492, 78, 723, 76, 723, 85, 492, 86],
+        "text": "www.me.fazenda.gov.br/portal ou no site da Sefaz Autorizadora",
+        "words": [{
+          "boundingBox": [493, 78, 604, 78, 604, 86, 493, 87],
+          "text": "www.me.fazenda.gov.br/portal",
+          "confidence": 0.425
+        }, {
+          "boundingBox": [605, 78, 615, 78, 615, 86, 606, 86],
+          "text": "ou",
+          "confidence": 0.909
+        }, {
+          "boundingBox": [616, 78, 626, 78, 627, 86, 617, 86],
+          "text": "no",
+          "confidence": 0.942
+        }, {
+          "boundingBox": [628, 78, 641, 78, 642, 86, 628, 86],
+          "text": "site",
+          "confidence": 0.910
+        }, {
+          "boundingBox": [643, 78, 653, 78, 653, 86, 643, 86],
+          "text": "da",
+          "confidence": 0.904
+        }, {
+          "boundingBox": [655, 78, 675, 77, 676, 86, 655, 86],
+          "text": "Sefaz",
+          "confidence": 0.871
+        }, {
+          "boundingBox": [677, 77, 723, 77, 724, 85, 677, 86],
+          "text": "Autorizadora",
+          "confidence": 0.581
+        }]
+      }, {
+        "boundingBox": [26, 88, 119, 88, 119, 97, 26, 97],
+        "text": "NATUREZA DA OPERACAO",
+        "words": [{
+          "boundingBox": [27, 89, 66, 89, 67, 97, 27, 97],
+          "text": "NATUREZA",
+          "confidence": 0.953
+        }, {
+          "boundingBox": [68, 89, 78, 89, 79, 97, 68, 97],
+          "text": "DA",
+          "confidence": 0.929
+        }, {
+          "boundingBox": [80, 89, 118, 88, 118, 97, 80, 97],
+          "text": "OPERACAO",
+          "confidence": 0.762
+        }]
+      }, {
+        "boundingBox": [494, 90, 627, 90, 627, 99, 494, 100],
+        "text": "PROTOCOLO DE AUTORIZACAO DE USO",
+        "words": [{
+          "boundingBox": [494, 92, 535, 91, 535, 100, 495, 101],
+          "text": "PROTOCOLO",
+          "confidence": 0.554
+        }, {
+          "boundingBox": [536, 91, 546, 91, 547, 100, 537, 100],
+          "text": "DE",
+          "confidence": 0.957
+        }, {
+          "boundingBox": [548, 90, 598, 90, 599, 100, 548, 100],
+          "text": "AUTORIZACAO",
+          "confidence": 0.727
+        }, {
+          "boundingBox": [600, 90, 609, 90, 609, 100, 600, 100],
+          "text": "DE",
+          "confidence": 0.840
+        }, {
+          "boundingBox": [611, 90, 625, 90, 626, 100, 611, 100],
+          "text": "USO",
+          "confidence": 0.865
+        }]
+      }, {
+        "boundingBox": [25, 99, 156, 99, 156, 110, 25, 109],
+        "text": "REMESSA DE PALETES",
+        "words": [{
+          "boundingBox": [28, 99, 81, 99, 81, 109, 28, 109],
+          "text": "REMESSA",
+          "confidence": 0.959
+        }, {
+          "boundingBox": [85, 99, 99, 99, 99, 109, 85, 109],
+          "text": "DE",
+          "confidence": 0.957
+        }, {
+          "boundingBox": [105, 99, 155, 99, 155, 111, 106, 109],
+          "text": "PALETES",
+          "confidence": 0.062
+        }]
+      }, {
+        "boundingBox": [25, 108, 104, 108, 104, 116, 25, 116],
+        "text": "INSCRICAD ESTADUAL",
+        "words": [{
+          "boundingBox": [26, 109, 66, 109, 66, 117, 27, 117],
+          "text": "INSCRICAD",
+          "confidence": 0.694
+        }, {
+          "boundingBox": [67, 109, 105, 109, 105, 117, 67, 117],
+          "text": "ESTADUAL",
+          "confidence": 0.502
+        }]
+      }, {
+        "boundingBox": [494, 99, 592, 99, 592, 110, 494, 110],
+        "text": "1529012345678910",
+        "words": [{
+          "boundingBox": [495, 100, 588, 100, 588, 111, 495, 111],
+          "text": "1529012345678910",
+          "confidence": 0.895
+        }]
+      }, {
+        "boundingBox": [616, 100, 672, 99, 672, 110, 616, 111],
+        "text": "01/01/2020",
+        "words": [{
+          "boundingBox": [618, 100, 673, 100, 673, 111, 618, 111],
+          "text": "01/01/2020",
+          "confidence": 0.958
+        }]
+      }, {
+        "boundingBox": [217, 109, 320, 110, 320, 119, 217, 118],
+        "text": "INSCR EST SUBS. TRIBUTARIO",
+        "words": [{
+          "boundingBox": [217, 109, 239, 110, 238, 118, 217, 118],
+          "text": "INSCR",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [241, 110, 257, 110, 256, 118, 241, 118],
+          "text": "EST",
+          "confidence": 0.692
+        }, {
+          "boundingBox": [258, 110, 278, 110, 278, 119, 258, 118],
+          "text": "SUBS.",
+          "confidence": 0.588
+        }, {
+          "boundingBox": [280, 110, 320, 110, 320, 119, 280, 119],
+          "text": "TRIBUTARIO",
+          "confidence": 0.907
+        }]
+      }, {
+        "boundingBox": [495, 110, 532, 109, 532, 118, 495, 119],
+        "text": "CNPJ CPF",
+        "words": [{
+          "boundingBox": [497, 111, 516, 110, 516, 119, 497, 119],
+          "text": "CNPJ",
+          "confidence": 0.487
+        }, {
+          "boundingBox": [519, 110, 532, 110, 532, 119, 519, 119],
+          "text": "CPF",
+          "confidence": 0.849
+        }]
+      }, {
+        "boundingBox": [28, 131, 117, 131, 117, 139, 28, 139],
+        "text": "NEXTISSTARTO RESETENTE",
+        "words": [{
+          "boundingBox": [33, 131, 78, 132, 78, 140, 33, 139],
+          "text": "NEXTISSTARTO",
+          "confidence": 0.252
+        }, {
+          "boundingBox": [79, 132, 117, 132, 117, 140, 79, 140],
+          "text": "RESETENTE",
+          "confidence": 0.400
+        }]
+      }, {
+        "boundingBox": [24, 139, 105, 139, 105, 147, 24, 147],
+        "text": "NOME /RAZAO SOCIAL",
+        "words": [{
+          "boundingBox": [25, 140, 46, 140, 46, 147, 25, 147],
+          "text": "NOME",
+          "confidence": 0.942
+        }, {
+          "boundingBox": [47, 140, 77, 140, 76, 147, 47, 147],
+          "text": "/RAZAO",
+          "confidence": 0.442
+        }, {
+          "boundingBox": [78, 140, 105, 140, 105, 147, 78, 147],
+          "text": "SOCIAL",
+          "confidence": 0.869
+        }]
+      }, {
+        "boundingBox": [591, 140, 627, 139, 628, 148, 591, 149],
+        "text": "CNPJ CPF",
+        "words": [{
+          "boundingBox": [592, 141, 611, 140, 611, 149, 592, 149],
+          "text": "CNPJ",
+          "confidence": 0.842
+        }, {
+          "boundingBox": [614, 140, 628, 139, 628, 148, 615, 149],
+          "text": "CPF",
+          "confidence": 0.849
+        }]
+      }, {
+        "boundingBox": [806, 139, 847, 138, 847, 145, 806, 146],
+        "text": "DT EMISSAO",
+        "words": [{
+          "boundingBox": [807, 140, 816, 139, 817, 146, 807, 147],
+          "text": "DT",
+          "confidence": 0.818
+        }, {
+          "boundingBox": [818, 139, 847, 139, 847, 146, 818, 146],
+          "text": "EMISSAO",
+          "confidence": 0.734
+        }]
+      }, {
+        "boundingBox": [23, 160, 64, 160, 64, 168, 23, 168],
+        "text": "ENDERECO",
+        "words": [{
+          "boundingBox": [24, 161, 63, 160, 63, 168, 24, 168],
+          "text": "ENDERECO",
+          "confidence": 0.878
+        }]
+      }, {
+        "boundingBox": [476, 162, 543, 161, 543, 170, 476, 170],
+        "text": "BAIRRO. DISTRITO",
+        "words": [{
+          "boundingBox": [477, 163, 507, 162, 508, 170, 478, 170],
+          "text": "BAIRRO.",
+          "confidence": 0.487
+        }, {
+          "boundingBox": [509, 162, 541, 162, 541, 170, 509, 170],
+          "text": "DISTRITO",
+          "confidence": 0.938
+        }]
+      }, {
+        "boundingBox": [738, 160, 753, 160, 753, 166, 738, 167],
+        "text": "CEP",
+        "words": [{
+          "boundingBox": [740, 160, 753, 160, 753, 166, 741, 167],
+          "text": "CEP",
+          "confidence": 0.256
+        }]
+      }, {
+        "boundingBox": [807, 160, 876, 159, 876, 166, 807, 167],
+        "text": "DT ENTRADA SAIDA",
+        "words": [{
+          "boundingBox": [808, 161, 818, 160, 818, 167, 808, 168],
+          "text": "DT",
+          "confidence": 0.850
+        }, {
+          "boundingBox": [819, 160, 852, 160, 852, 167, 820, 167],
+          "text": "ENTRADA",
+          "confidence": 0.865
+        }, {
+          "boundingBox": [853, 160, 875, 159, 875, 167, 853, 167],
+          "text": "SAIDA",
+          "confidence": 0.768
+        }]
+      }, {
+        "boundingBox": [22, 182, 62, 181, 62, 189, 22, 190],
+        "text": "MUNICIPIO",
+        "words": [{
+          "boundingBox": [23, 183, 61, 182, 61, 190, 23, 190],
+          "text": "MUNICIPIO",
+          "confidence": 0.727
+        }]
+      }, {
+        "boundingBox": [477, 172, 605, 171, 606, 183, 477, 184],
+        "text": "DISTRITO INDUSTRIAL",
+        "words": [{
+          "boundingBox": [477, 172, 530, 172, 530, 184, 478, 184],
+          "text": "DISTRITO",
+          "confidence": 0.959
+        }, {
+          "boundingBox": [533, 172, 605, 172, 605, 183, 533, 184],
+          "text": "INDUSTRIAL",
+          "confidence": 0.953
+        }]
+      }, {
+        "boundingBox": [383, 184, 423, 184, 423, 191, 383, 192],
+        "text": "FONE / FAX",
+        "words": [{
+          "boundingBox": [384, 185, 402, 185, 402, 192, 384, 192],
+          "text": "FONE",
+          "confidence": 0.851
+        }, {
+          "boundingBox": [403, 185, 406, 185, 406, 192, 404, 192],
+          "text": "/",
+          "confidence": 0.570
+        }, {
+          "boundingBox": [408, 185, 422, 184, 422, 192, 408, 192],
+          "text": "FAX",
+          "confidence": 0.958
+        }]
+      }, {
+        "boundingBox": [592, 182, 672, 180, 672, 189, 592, 191],
+        "text": "INSCRICAO ESTADUAL",
+        "words": [{
+          "boundingBox": [593, 183, 632, 182, 632, 191, 594, 191],
+          "text": "INSCRICAO",
+          "confidence": 0.909
+        }, {
+          "boundingBox": [634, 182, 672, 181, 672, 190, 634, 191],
+          "text": "ESTADUAL",
+          "confidence": 0.762
+        }]
+      }, {
+        "boundingBox": [808, 181, 852, 179, 852, 187, 808, 188],
+        "text": "HORA SAIDA",
+        "words": [{
+          "boundingBox": [810, 181, 830, 181, 830, 188, 810, 189],
+          "text": "HORA",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [831, 181, 852, 180, 852, 187, 831, 188],
+          "text": "SAIDA",
+          "confidence": 0.900
+        }]
+      }, {
+        "boundingBox": [540, 194, 559, 193, 560, 203, 540, 204],
+        "text": "MT",
+        "words": [{
+          "boundingBox": [541, 193, 559, 193, 560, 203, 542, 204],
+          "text": "MT",
+          "confidence": 0.909
+        }]
+      }, {
+        "boundingBox": [25, 206, 90, 206, 90, 214, 25, 214],
+        "text": "FATERANUPLICATA",
+        "words": [{
+          "boundingBox": [26, 206, 90, 207, 90, 214, 26, 214],
+          "text": "FATERANUPLICATA",
+          "confidence": 0.371
+        }]
+      }, {
+        "boundingBox": [23, 214, 98, 214, 98, 221, 23, 222],
+        "text": "FATURA DUPLICATA",
+        "words": [{
+          "boundingBox": [24, 215, 53, 215, 53, 222, 24, 222],
+          "text": "FATURA",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [55, 215, 95, 215, 96, 222, 55, 222],
+          "text": "DUPLICATA",
+          "confidence": 0.762
+        }]
+      }, {
+        "boundingBox": [107, 214, 161, 214, 161, 222, 107, 222],
+        "text": "VENCIMENTO",
+        "words": [{
+          "boundingBox": [112, 214, 160, 214, 160, 222, 112, 222],
+          "text": "VENCIMENTO",
+          "confidence": 0.857
+        }]
+      }, {
+        "boundingBox": [193, 214, 219, 214, 219, 221, 193, 222],
+        "text": "VALOR",
+        "words": [{
+          "boundingBox": [194, 215, 218, 214, 218, 222, 194, 222],
+          "text": "VALOR",
+          "confidence": 0.954
+        }]
+      }, {
+        "boundingBox": [250, 214, 382, 214, 382, 223, 250, 222],
+        "text": "FATURA DUPLICATA |VENCIMENTO",
+        "words": [{
+          "boundingBox": [251, 215, 279, 215, 279, 223, 251, 223],
+          "text": "FATURA",
+          "confidence": 0.947
+        }, {
+          "boundingBox": [281, 215, 319, 215, 320, 223, 281, 223],
+          "text": "DUPLICATA",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [324, 215, 380, 215, 381, 224, 324, 223],
+          "text": "|VENCIMENTO",
+          "confidence": 0.302
+        }]
+      }, {
+        "boundingBox": [412, 215, 438, 214, 438, 222, 412, 222],
+        "text": "VALOR",
+        "words": [{
+          "boundingBox": [413, 215, 438, 215, 438, 222, 413, 223],
+          "text": "VALOR",
+          "confidence": 0.858
+        }]
+      }, {
+        "boundingBox": [468, 214, 606, 213, 606, 221, 468, 222],
+        "text": "FATURA DUPLICATA VENCIMENTO",
+        "words": [{
+          "boundingBox": [469, 215, 497, 214, 498, 222, 470, 222],
+          "text": "FATURA",
+          "confidence": 0.895
+        }, {
+          "boundingBox": [499, 214, 539, 214, 539, 222, 499, 222],
+          "text": "DUPLICATA",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [554, 214, 600, 214, 601, 222, 554, 222],
+          "text": "VENCIMENTO",
+          "confidence": 0.943
+        }]
+      }, {
+        "boundingBox": [628, 213, 654, 212, 655, 220, 628, 220],
+        "text": "VALOR",
+        "words": [{
+          "boundingBox": [629, 213, 654, 213, 654, 220, 629, 221],
+          "text": "VALOR",
+          "confidence": 0.927
+        }]
+      }, {
+        "boundingBox": [680, 212, 816, 211, 816, 219, 681, 220],
+        "text": "FATURA DUPLICATA VENCIMENTO",
+        "words": [{
+          "boundingBox": [682, 212, 710, 212, 710, 221, 682, 221],
+          "text": "FATURA",
+          "confidence": 0.799
+        }, {
+          "boundingBox": [712, 212, 752, 212, 752, 220, 712, 221],
+          "text": "DUPLICATA",
+          "confidence": 0.605
+        }, {
+          "boundingBox": [768, 211, 815, 211, 815, 219, 768, 220],
+          "text": "VENCIMENTO",
+          "confidence": 0.822
+        }]
+      }, {
+        "boundingBox": [840, 211, 866, 210, 867, 218, 841, 218],
+        "text": "VALOR",
+        "words": [{
+          "boundingBox": [842, 211, 866, 211, 866, 218, 842, 219],
+          "text": "VALOR",
+          "confidence": 0.861
+        }]
+      }, {
+        "boundingBox": [24, 249, 96, 249, 96, 257, 24, 257],
+        "text": "CALCULO DO IMPOSTO",
+        "words": [{
+          "boundingBox": [24, 249, 54, 249, 54, 257, 24, 257],
+          "text": "CALCULO",
+          "confidence": 0.727
+        }, {
+          "boundingBox": [56, 250, 65, 250, 65, 257, 56, 257],
+          "text": "DO",
+          "confidence": 0.692
+        }, {
+          "boundingBox": [66, 250, 96, 250, 96, 257, 66, 257],
+          "text": "IMPOSTO",
+          "confidence": 0.632
+        }]
+      }, {
+        "boundingBox": [18, 259, 117, 259, 118, 267, 18, 267],
+        "text": "BASE DE CALCULO DO ICMS",
+        "words": [{
+          "boundingBox": [19, 260, 38, 260, 38, 268, 19, 268],
+          "text": "BASE",
+          "confidence": 0.804
+        }, {
+          "boundingBox": [40, 260, 50, 260, 50, 268, 40, 268],
+          "text": "DE",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [51, 260, 85, 260, 85, 268, 51, 268],
+          "text": "CALCULO",
+          "confidence": 0.889
+        }, {
+          "boundingBox": [87, 260, 97, 260, 98, 267, 87, 268],
+          "text": "DO",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [99, 260, 117, 260, 118, 267, 100, 267],
+          "text": "ICMS",
+          "confidence": 0.895
+        }]
+      }, {
+        "boundingBox": [201, 259, 261, 259, 261, 267, 201, 267],
+        "text": "VALOR DO ICMS",
+        "words": [{
+          "boundingBox": [204, 260, 229, 260, 229, 268, 204, 267],
+          "text": "VALOR",
+          "confidence": 0.893
+        }, {
+          "boundingBox": [231, 260, 242, 260, 242, 268, 231, 268],
+          "text": "DO",
+          "confidence": 0.948
+        }, {
+          "boundingBox": [244, 260, 261, 259, 261, 268, 244, 268],
+          "text": "ICMS",
+          "confidence": 0.909
+        }]
+      }, {
+        "boundingBox": [373, 259, 478, 258, 478, 266, 373, 268],
+        "text": "BASE DE CALCULO DO ICMS ST",
+        "words": [{
+          "boundingBox": [374, 260, 392, 260, 392, 268, 374, 267],
+          "text": "BASE",
+          "confidence": 0.943
+        }, {
+          "boundingBox": [394, 260, 404, 260, 404, 268, 394, 268],
+          "text": "DE",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [405, 260, 438, 259, 439, 268, 405, 268],
+          "text": "CALCULO",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [440, 259, 451, 259, 451, 267, 441, 268],
+          "text": "DO",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [452, 259, 469, 258, 470, 267, 452, 267],
+          "text": "ICMS",
+          "confidence": 0.755
+        }, {
+          "boundingBox": [471, 258, 478, 258, 479, 267, 471, 267],
+          "text": "ST",
+          "confidence": 0.715
+        }]
+      }, {
+        "boundingBox": [553, 258, 655, 257, 656, 265, 553, 266],
+        "text": "VALOR DO KCMS SUBSTITUTO",
+        "words": [{
+          "boundingBox": [554, 259, 577, 259, 578, 266, 554, 266],
+          "text": "VALOR",
+          "confidence": 0.844
+        }, {
+          "boundingBox": [579, 259, 589, 259, 589, 266, 579, 266],
+          "text": "DO",
+          "confidence": 0.946
+        }, {
+          "boundingBox": [592, 259, 609, 258, 610, 266, 592, 266],
+          "text": "KCMS",
+          "confidence": 0.289
+        }, {
+          "boundingBox": [611, 258, 655, 258, 655, 265, 611, 266],
+          "text": "SUBSTITUTO",
+          "confidence": 0.745
+        }]
+      }, {
+        "boundingBox": [724, 255, 831, 255, 831, 263, 724, 264],
+        "text": "VALOR TOTAL DOS PRODUTOS",
+        "words": [{
+          "boundingBox": [725, 256, 749, 256, 749, 264, 725, 264],
+          "text": "VALOR",
+          "confidence": 0.752
+        }, {
+          "boundingBox": [752, 256, 774, 256, 774, 264, 752, 264],
+          "text": "TOTAL",
+          "confidence": 0.896
+        }, {
+          "boundingBox": [776, 256, 791, 256, 791, 264, 776, 264],
+          "text": "DOS",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [793, 256, 831, 255, 831, 264, 793, 264],
+          "text": "PRODUTOS",
+          "confidence": 0.847
+        }]
+      }, {
+        "boundingBox": [171, 270, 194, 271, 194, 279, 171, 279],
+        "text": "0 00",
+        "words": [{
+          "boundingBox": [173, 270, 179, 270, 179, 279, 173, 279],
+          "text": "0",
+          "confidence": 0.841
+        }, {
+          "boundingBox": [181, 270, 194, 270, 194, 279, 181, 279],
+          "text": "00",
+          "confidence": 0.686
+        }]
+      }, {
+        "boundingBox": [342, 270, 364, 271, 364, 279, 341, 279],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [343, 270, 364, 270, 364, 279, 343, 278],
+          "text": "0.00",
+          "confidence": 0.570
+        }]
+      }, {
+        "boundingBox": [520, 269, 544, 269, 544, 279, 520, 279],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [522, 269, 544, 269, 544, 279, 522, 279],
+          "text": "0.00",
+          "confidence": 0.781
+        }]
+      }, {
+        "boundingBox": [694, 268, 716, 267, 716, 277, 694, 277],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [694, 267, 716, 267, 716, 276, 694, 277],
+          "text": "0.00",
+          "confidence": 0.799
+        }]
+      }, {
+        "boundingBox": [18, 281, 79, 281, 79, 288, 18, 288],
+        "text": "VALOR DO FRETE",
+        "words": [{
+          "boundingBox": [18, 282, 43, 281, 43, 289, 19, 289],
+          "text": "VALOR",
+          "confidence": 0.931
+        }, {
+          "boundingBox": [45, 281, 56, 281, 56, 289, 45, 289],
+          "text": "DO",
+          "confidence": 0.948
+        }, {
+          "boundingBox": [57, 281, 79, 281, 80, 289, 57, 289],
+          "text": "FRETE",
+          "confidence": 0.931
+        }]
+      }, {
+        "boundingBox": [163, 281, 229, 280, 230, 288, 163, 288],
+        "text": "ALOR DO SEGURO",
+        "words": [{
+          "boundingBox": [166, 281, 185, 281, 186, 289, 166, 289],
+          "text": "ALOR",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [187, 281, 197, 281, 197, 289, 187, 289],
+          "text": "DO",
+          "confidence": 0.942
+        }, {
+          "boundingBox": [199, 281, 228, 280, 229, 288, 199, 289],
+          "text": "SEGURO",
+          "confidence": 0.860
+        }]
+      }, {
+        "boundingBox": [299, 281, 375, 280, 375, 288, 299, 288],
+        "text": "VALOR DO DESCONTO",
+        "words": [{
+          "boundingBox": [300, 281, 324, 281, 324, 288, 300, 288],
+          "text": "VALOR",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [326, 281, 335, 281, 336, 288, 326, 289],
+          "text": "DO",
+          "confidence": 0.944
+        }, {
+          "boundingBox": [338, 281, 375, 281, 375, 288, 338, 288],
+          "text": "DESCONTO",
+          "confidence": 0.882
+        }]
+      }, {
+        "boundingBox": [437, 280, 502, 280, 502, 287, 437, 287],
+        "text": "OUTRAS DESPESAS",
+        "words": [{
+          "boundingBox": [438, 281, 467, 280, 467, 288, 438, 288],
+          "text": "OUTRAS",
+          "confidence": 0.848
+        }, {
+          "boundingBox": [468, 280, 502, 280, 502, 287, 468, 288],
+          "text": "DESPESAS",
+          "confidence": 0.844
+        }]
+      }, {
+        "boundingBox": [575, 279, 624, 278, 624, 286, 575, 286],
+        "text": "VALOR DO IPL",
+        "words": [{
+          "boundingBox": [575, 280, 599, 279, 599, 287, 575, 287],
+          "text": "VALOR",
+          "confidence": 0.846
+        }, {
+          "boundingBox": [601, 279, 611, 279, 611, 287, 601, 287],
+          "text": "DO",
+          "confidence": 0.842
+        }, {
+          "boundingBox": [613, 279, 624, 279, 624, 286, 614, 287],
+          "text": "IPL",
+          "confidence": 0.297
+        }]
+      }, {
+        "boundingBox": [727, 277, 810, 277, 810, 284, 727, 285],
+        "text": "VALOR TOTAL DA NOTA",
+        "words": [{
+          "boundingBox": [727, 278, 750, 278, 750, 285, 727, 285],
+          "text": "VALOR",
+          "confidence": 0.807
+        }, {
+          "boundingBox": [753, 278, 776, 278, 776, 285, 753, 285],
+          "text": "TOTAL",
+          "confidence": 0.873
+        }, {
+          "boundingBox": [778, 278, 788, 278, 788, 285, 778, 285],
+          "text": "DA",
+          "confidence": 0.945
+        }, {
+          "boundingBox": [790, 278, 811, 277, 811, 285, 790, 285],
+          "text": "NOTA",
+          "confidence": 0.958
+        }]
+      }, {
+        "boundingBox": [128, 292, 152, 292, 152, 302, 128, 302],
+        "text": "0,00",
+        "words": [{
+          "boundingBox": [129, 292, 151, 292, 151, 302, 129, 302],
+          "text": "0,00",
+          "confidence": 0.488
+        }]
+      }, {
+        "boundingBox": [269, 292, 291, 292, 291, 301, 269, 301],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [270, 292, 291, 292, 291, 301, 270, 301],
+          "text": "0.00",
+          "confidence": 0.817
+        }]
+      }, {
+        "boundingBox": [406, 291, 429, 291, 429, 301, 406, 301],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [407, 291, 429, 291, 429, 301, 407, 301],
+          "text": "0.00",
+          "confidence": 0.453
+        }]
+      }, {
+        "boundingBox": [543, 290, 567, 290, 567, 301, 543, 300],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [544, 290, 566, 290, 566, 301, 544, 300],
+          "text": "0.00",
+          "confidence": 0.694
+        }]
+      }, {
+        "boundingBox": [695, 289, 717, 288, 717, 298, 694, 299],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [695, 289, 716, 288, 717, 298, 696, 299],
+          "text": "0.00",
+          "confidence": 0.645
+        }]
+      }, {
+        "boundingBox": [20, 305, 170, 305, 170, 313, 20, 313],
+        "text": "TRANSPORTADOR /ATNAMES TRANSPORTAIMING",
+        "words": [{
+          "boundingBox": [22, 305, 77, 306, 77, 313, 22, 313],
+          "text": "TRANSPORTADOR",
+          "confidence": 0.434
+        }, {
+          "boundingBox": [78, 306, 114, 306, 114, 313, 79, 313],
+          "text": "/ATNAMES",
+          "confidence": 0.252
+        }, {
+          "boundingBox": [115, 306, 171, 305, 171, 313, 115, 313],
+          "text": "TRANSPORTAIMING",
+          "confidence": 0.252
+        }]
+      }, {
+        "boundingBox": [16, 313, 98, 313, 98, 321, 16, 321],
+        "text": "NOME . RAZAO SOCIAL",
+        "words": [{
+          "boundingBox": [17, 314, 39, 314, 39, 321, 17, 322],
+          "text": "NOME",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [40, 314, 43, 314, 43, 321, 40, 321],
+          "text": ".",
+          "confidence": 0.496
+        }, {
+          "boundingBox": [45, 314, 70, 314, 70, 321, 45, 321],
+          "text": "RAZAO",
+          "confidence": 0.841
+        }, {
+          "boundingBox": [72, 314, 99, 314, 99, 321, 72, 321],
+          "text": "SOCIAL",
+          "confidence": 0.861
+        }]
+      }, {
+        "boundingBox": [347, 312, 412, 312, 412, 319, 347, 319],
+        "text": "FREIE PUR CONTA",
+        "words": [{
+          "boundingBox": [348, 312, 369, 312, 369, 319, 348, 319],
+          "text": "FREIE",
+          "confidence": 0.287
+        }, {
+          "boundingBox": [371, 312, 385, 312, 385, 319, 371, 319],
+          "text": "PUR",
+          "confidence": 0.443
+        }, {
+          "boundingBox": [387, 312, 412, 312, 412, 319, 387, 319],
+          "text": "CONTA",
+          "confidence": 0.849
+        }]
+      }, {
+        "boundingBox": [458, 311, 506, 310, 506, 318, 458, 318],
+        "text": "CODIDO ANTT",
+        "words": [{
+          "boundingBox": [459, 311, 486, 311, 486, 318, 460, 319],
+          "text": "CODIDO",
+          "confidence": 0.727
+        }, {
+          "boundingBox": [488, 311, 507, 311, 507, 319, 488, 318],
+          "text": "ANTT",
+          "confidence": 0.909
+        }]
+      }, {
+        "boundingBox": [585, 310, 656, 309, 656, 317, 585, 317],
+        "text": "PLACA DO VEICULO",
+        "words": [{
+          "boundingBox": [586, 310, 610, 310, 610, 318, 587, 318],
+          "text": "PLACA",
+          "confidence": 0.462
+        }, {
+          "boundingBox": [612, 310, 622, 310, 622, 318, 612, 318],
+          "text": "DO",
+          "confidence": 0.902
+        }, {
+          "boundingBox": [624, 310, 656, 310, 656, 317, 624, 318],
+          "text": "VEICULO",
+          "confidence": 0.762
+        }]
+      }, {
+        "boundingBox": [725, 309, 745, 309, 745, 315, 725, 315],
+        "text": "CNDJ",
+        "words": [{
+          "boundingBox": [727, 310, 745, 309, 746, 315, 727, 316],
+          "text": "CNDJ",
+          "confidence": 0.430
+        }]
+      }, {
+        "boundingBox": [126, 320, 158, 321, 158, 332, 125, 332],
+        "text": "LTDA",
+        "words": [{
+          "boundingBox": [127, 320, 158, 320, 158, 332, 127, 331],
+          "text": "LTDA",
+          "confidence": 0.909
+        }]
+      }, {
+        "boundingBox": [347, 320, 426, 320, 426, 327, 347, 327],
+        "text": "0 - Por conta do eminente",
+        "words": [{
+          "boundingBox": [348, 320, 352, 320, 352, 327, 348, 327],
+          "text": "0",
+          "confidence": 0.426
+        }, {
+          "boundingBox": [353, 320, 356, 320, 356, 327, 353, 327],
+          "text": "-",
+          "confidence": 0.861
+        }, {
+          "boundingBox": [358, 320, 369, 320, 368, 327, 358, 327],
+          "text": "Por",
+          "confidence": 0.909
+        }, {
+          "boundingBox": [370, 320, 388, 320, 388, 328, 370, 327],
+          "text": "conta",
+          "confidence": 0.291
+        }, {
+          "boundingBox": [389, 320, 397, 320, 397, 328, 389, 328],
+          "text": "do",
+          "confidence": 0.909
+        }, {
+          "boundingBox": [399, 320, 427, 320, 427, 328, 399, 328],
+          "text": "eminente",
+          "confidence": 0.329
+        }]
+      }, {
+        "boundingBox": [15, 346, 55, 345, 55, 352, 15, 353],
+        "text": "ENDERECO",
+        "words": [{
+          "boundingBox": [15, 346, 55, 345, 55, 353, 16, 353],
+          "text": "ENDERECO",
+          "confidence": 0.570
+        }]
+      }, {
+        "boundingBox": [415, 342, 456, 342, 456, 350, 415, 350],
+        "text": "MUNICIPIO",
+        "words": [{
+          "boundingBox": [417, 343, 456, 342, 456, 351, 417, 351],
+          "text": "MUNICIPIO",
+          "confidence": 0.487
+        }]
+      }, {
+        "boundingBox": [729, 340, 808, 339, 808, 347, 729, 348],
+        "text": "INSCRICAO ESTADUAL",
+        "words": [{
+          "boundingBox": [730, 341, 768, 340, 768, 348, 730, 348],
+          "text": "INSCRICAO",
+          "confidence": 0.799
+        }, {
+          "boundingBox": [770, 340, 809, 340, 809, 347, 770, 348],
+          "text": "ESTADUAL",
+          "confidence": 0.909
+        }]
+      }, {
+        "boundingBox": [12, 368, 64, 367, 64, 374, 13, 375],
+        "text": "QUANTIDADE",
+        "words": [{
+          "boundingBox": [14, 369, 63, 368, 64, 375, 15, 376],
+          "text": "QUANTIDADE",
+          "confidence": 0.915
+        }]
+      }, {
+        "boundingBox": [91, 367, 121, 367, 122, 374, 91, 375],
+        "text": "ESPECIE",
+        "words": [{
+          "boundingBox": [92, 368, 122, 367, 122, 375, 92, 375],
+          "text": "ESPECIE",
+          "confidence": 0.727
+        }]
+      }, {
+        "boundingBox": [300, 365, 326, 365, 326, 372, 300, 373],
+        "text": "MARCA",
+        "words": [{
+          "boundingBox": [300, 366, 326, 365, 326, 373, 300, 373],
+          "text": "MARCA",
+          "confidence": 0.959
+        }]
+      }, {
+        "boundingBox": [427, 364, 460, 364, 460, 372, 427, 372],
+        "text": "NUMERO",
+        "words": [{
+          "boundingBox": [428, 365, 460, 364, 460, 372, 428, 373],
+          "text": "NUMERO",
+          "confidence": 0.878
+        }]
+      }, {
+        "boundingBox": [598, 363, 644, 362, 644, 371, 599, 371],
+        "text": "FESO BRUTO",
+        "words": [{
+          "boundingBox": [599, 363, 617, 363, 617, 372, 600, 371],
+          "text": "FESO",
+          "confidence": 0.660
+        }, {
+          "boundingBox": [619, 363, 643, 363, 644, 371, 619, 372],
+          "text": "BRUTO",
+          "confidence": 0.936
+        }]
+      }, {
+        "boundingBox": [751, 362, 802, 361, 802, 369, 752, 369],
+        "text": "PESO LIQUIDO",
+        "words": [{
+          "boundingBox": [752, 362, 770, 362, 770, 370, 752, 370],
+          "text": "PESO",
+          "confidence": 0.904
+        }, {
+          "boundingBox": [772, 362, 802, 362, 802, 370, 772, 370],
+          "text": "LIQUIDO",
+          "confidence": 0.840
+        }]
+      }, {
+        "boundingBox": [14, 393, 126, 392, 126, 400, 14, 400],
+        "text": "DADCIS DOS PRODUTOS / SERVICOS",
+        "words": [{
+          "boundingBox": [16, 394, 38, 394, 38, 401, 16, 401],
+          "text": "DADCIS",
+          "confidence": 0.430
+        }, {
+          "boundingBox": [40, 394, 54, 393, 54, 401, 40, 401],
+          "text": "DOS",
+          "confidence": 0.727
+        }, {
+          "boundingBox": [55, 393, 89, 393, 89, 400, 55, 401],
+          "text": "PRODUTOS",
+          "confidence": 0.442
+        }, {
+          "boundingBox": [90, 393, 92, 393, 92, 400, 90, 400],
+          "text": "/",
+          "confidence": 0.436
+        }, {
+          "boundingBox": [94, 393, 127, 393, 127, 400, 94, 400],
+          "text": "SERVICOS",
+          "confidence": 0.341
+        }]
+      }, {
+        "boundingBox": [26, 402, 58, 402, 58, 409, 26, 409],
+        "text": "CODIGO",
+        "words": [{
+          "boundingBox": [28, 403, 57, 403, 57, 410, 28, 410],
+          "text": "CODIGO",
+          "confidence": 0.694
+        }]
+      }, {
+        "boundingBox": [187, 400, 299, 399, 299, 408, 188, 409],
+        "text": "DESCRICAO PRODUTO SERVICO",
+        "words": [{
+          "boundingBox": [188, 401, 230, 400, 230, 408, 188, 409],
+          "text": "DESCRICAO",
+          "confidence": 0.924
+        }, {
+          "boundingBox": [232, 400, 268, 400, 268, 408, 232, 408],
+          "text": "PRODUTO",
+          "confidence": 0.924
+        }, {
+          "boundingBox": [269, 400, 299, 399, 299, 408, 269, 408],
+          "text": "SERVICO",
+          "confidence": 0.762
+        }]
+      }, {
+        "boundingBox": [410, 397, 549, 396, 549, 405, 410, 406],
+        "text": "NCM/ SH CST CFOP UN QUANT.",
+        "words": [{
+          "boundingBox": [410, 398, 431, 397, 431, 406, 411, 406],
+          "text": "NCM/",
+          "confidence": 0.615
+        }, {
+          "boundingBox": [432, 397, 442, 397, 442, 406, 433, 406],
+          "text": "SH",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [452, 397, 467, 397, 467, 406, 452, 406],
+          "text": "CST",
+          "confidence": 0.727
+        }, {
+          "boundingBox": [473, 397, 491, 397, 491, 406, 473, 406],
+          "text": "CFOP",
+          "confidence": 0.727
+        }, {
+          "boundingBox": [497, 397, 508, 397, 508, 406, 497, 406],
+          "text": "UN",
+          "confidence": 0.848
+        }, {
+          "boundingBox": [518, 397, 549, 397, 549, 406, 518, 406],
+          "text": "QUANT.",
+          "confidence": 0.799
+        }]
+      }, {
+        "boundingBox": [558, 396, 586, 396, 586, 405, 558, 405],
+        "text": "VALOR",
+        "words": [{
+          "boundingBox": [561, 397, 586, 397, 586, 405, 561, 405],
+          "text": "VALOR",
+          "confidence": 0.919
+        }]
+      }, {
+        "boundingBox": [604, 397, 630, 397, 629, 404, 604, 404],
+        "text": "VALOR",
+        "words": [{
+          "boundingBox": [605, 397, 629, 397, 629, 405, 605, 405],
+          "text": "VALOR",
+          "confidence": 0.950
+        }]
+      }, {
+        "boundingBox": [642, 396, 675, 396, 675, 404, 642, 404],
+        "text": "B. CALC.",
+        "words": [{
+          "boundingBox": [644, 397, 651, 397, 652, 405, 644, 405],
+          "text": "B.",
+          "confidence": 0.911
+        }, {
+          "boundingBox": [653, 397, 676, 397, 676, 405, 653, 405],
+          "text": "CALC.",
+          "confidence": 0.902
+        }]
+      }, {
+        "boundingBox": [688, 397, 714, 396, 714, 404, 688, 404],
+        "text": "B.CALC",
+        "words": [{
+          "boundingBox": [688, 397, 714, 397, 714, 404, 688, 404],
+          "text": "B.CALC",
+          "confidence": 0.639
+        }]
+      }, {
+        "boundingBox": [730, 395, 756, 395, 756, 403, 730, 402],
+        "text": "VALOR",
+        "words": [{
+          "boundingBox": [732, 396, 755, 396, 756, 403, 732, 403],
+          "text": "VALOR",
+          "confidence": 0.846
+        }]
+      }, {
+        "boundingBox": [771, 396, 801, 395, 801, 402, 771, 403],
+        "text": "VALOR",
+        "words": [{
+          "boundingBox": [774, 396, 799, 395, 799, 403, 774, 404],
+          "text": "VALOR",
+          "confidence": 0.857
+        }]
+      }, {
+        "boundingBox": [809, 395, 898, 393, 898, 401, 809, 402],
+        "text": "VALOR IPI | ALIQUOTAS",
+        "words": [{
+          "boundingBox": [811, 395, 836, 395, 837, 402, 811, 402],
+          "text": "VALOR",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [839, 395, 847, 395, 847, 402, 839, 402],
+          "text": "IPI",
+          "confidence": 0.686
+        }, {
+          "boundingBox": [849, 395, 854, 395, 854, 402, 849, 402],
+          "text": "|",
+          "confidence": 0.270
+        }, {
+          "boundingBox": [856, 394, 897, 394, 897, 401, 856, 402],
+          "text": "ALIQUOTAS",
+          "confidence": 0.916
+        }]
+      }, {
+        "boundingBox": [556, 405, 591, 405, 591, 412, 556, 413],
+        "text": "UNITARIO",
+        "words": [{
+          "boundingBox": [557, 406, 591, 405, 591, 413, 557, 413],
+          "text": "UNITARIO",
+          "confidence": 0.818
+        }]
+      }, {
+        "boundingBox": [605, 405, 629, 405, 629, 412, 605, 412],
+        "text": "TOTAL",
+        "words": [{
+          "boundingBox": [606, 406, 629, 406, 629, 413, 606, 413],
+          "text": "TOTAL",
+          "confidence": 0.956
+        }]
+      }, {
+        "boundingBox": [649, 405, 670, 405, 670, 411, 649, 412],
+        "text": "ICMS",
+        "words": [{
+          "boundingBox": [650, 406, 668, 405, 669, 412, 650, 412],
+          "text": "ICMS",
+          "confidence": 0.676
+        }]
+      }, {
+        "boundingBox": [689, 405, 716, 405, 716, 412, 689, 411],
+        "text": "CMS ST",
+        "words": [{
+          "boundingBox": [690, 405, 707, 405, 707, 412, 691, 412],
+          "text": "CMS",
+          "confidence": 0.689
+        }, {
+          "boundingBox": [708, 406, 716, 405, 717, 412, 708, 412],
+          "text": "ST",
+          "confidence": 0.845
+        }]
+      }, {
+        "boundingBox": [735, 404, 754, 404, 754, 411, 736, 411],
+        "text": "ICMS",
+        "words": [{
+          "boundingBox": [736, 404, 754, 404, 754, 411, 736, 411],
+          "text": "ICMS",
+          "confidence": 0.647
+        }]
+      }, {
+        "boundingBox": [773, 403, 801, 403, 801, 411, 773, 411],
+        "text": "ICMS ST",
+        "words": [{
+          "boundingBox": [773, 404, 791, 404, 792, 411, 774, 411],
+          "text": "ICMS",
+          "confidence": 0.836
+        }, {
+          "boundingBox": [793, 404, 801, 404, 802, 411, 793, 411],
+          "text": "ST",
+          "confidence": 0.886
+        }]
+      }, {
+        "boundingBox": [852, 404, 880, 403, 881, 411, 853, 412],
+        "text": "ICMS",
+        "words": [{
+          "boundingBox": [855, 405, 873, 404, 873, 412, 855, 412],
+          "text": "ICMS",
+          "confidence": 0.904
+        }]
+      }, {
+        "boundingBox": [882, 405, 895, 404, 895, 411, 883, 411],
+        "text": "IPE",
+        "words": [{
+          "boundingBox": [885, 404, 894, 404, 895, 411, 885, 411],
+          "text": "IPE",
+          "confidence": 0.429
+        }]
+      }, {
+        "boundingBox": [25, 422, 51, 422, 51, 430, 25, 431],
+        "text": "120456",
+        "words": [{
+          "boundingBox": [26, 423, 51, 423, 52, 431, 26, 431],
+          "text": "120456",
+          "confidence": 0.871
+        }]
+      }, {
+        "boundingBox": [98, 423, 295, 423, 295, 432, 98, 433],
+        "text": "MATERIAL DE MADEIRA 12X100X320CM C/II LOL",
+        "words": [{
+          "boundingBox": [98, 424, 142, 424, 142, 433, 98, 433],
+          "text": "MATERIAL",
+          "confidence": 0.959
+        }, {
+          "boundingBox": [144, 424, 155, 424, 155, 433, 144, 433],
+          "text": "DE",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [157, 424, 196, 424, 197, 433, 157, 433],
+          "text": "MADEIRA",
+          "confidence": 0.916
+        }, {
+          "boundingBox": [199, 424, 256, 424, 256, 433, 199, 433],
+          "text": "12X100X320CM",
+          "confidence": 0.727
+        }, {
+          "boundingBox": [260, 424, 277, 424, 277, 433, 260, 433],
+          "text": "C/II",
+          "confidence": 0.252
+        }, {
+          "boundingBox": [278, 424, 295, 423, 295, 433, 278, 433],
+          "text": "LOL",
+          "confidence": 0.958
+        }]
+      }, {
+        "boundingBox": [407, 419, 509, 419, 509, 429, 407, 428],
+        "text": "123456000 012 1234 UN",
+        "words": [{
+          "boundingBox": [408, 420, 447, 420, 447, 428, 408, 429],
+          "text": "123456000",
+          "confidence": 0.872
+        }, {
+          "boundingBox": [452, 420, 467, 420, 467, 428, 452, 428],
+          "text": "012",
+          "confidence": 0.882
+        }, {
+          "boundingBox": [472, 420, 491, 420, 491, 428, 472, 428],
+          "text": "1234",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [496, 420, 507, 421, 508, 429, 496, 428],
+          "text": "UN",
+          "confidence": 0.905
+        }]
+      }, {
+        "boundingBox": [522, 421, 536, 421, 537, 427, 522, 428],
+        "text": "020",
+        "words": [{
+          "boundingBox": [524, 421, 537, 421, 537, 427, 524, 428],
+          "text": "020",
+          "confidence": 0.799
+        }]
+      }, {
+        "boundingBox": [567, 421, 591, 421, 591, 428, 567, 428],
+        "text": "102,00",
+        "words": [{
+          "boundingBox": [567, 422, 590, 422, 590, 428, 567, 428],
+          "text": "102,00",
+          "confidence": 0.488
+        }]
+      }, {
+        "boundingBox": [602, 421, 623, 421, 623, 429, 602, 428],
+        "text": "49,00",
+        "words": [{
+          "boundingBox": [603, 422, 621, 422, 621, 429, 603, 428],
+          "text": "49,00",
+          "confidence": 0.799
+        }]
+      }, {
+        "boundingBox": [651, 421, 666, 421, 666, 427, 651, 428],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [651, 421, 666, 421, 666, 427, 652, 428],
+          "text": "0.00",
+          "confidence": 0.681
+        }]
+      }, {
+        "boundingBox": [737, 422, 752, 421, 752, 427, 738, 428],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [737, 422, 751, 421, 752, 427, 737, 428],
+          "text": "0.00",
+          "confidence": 0.504
+        }]
+      }, {
+        "boundingBox": [780, 421, 797, 421, 797, 427, 780, 428],
+        "text": "0,00",
+        "words": [{
+          "boundingBox": [781, 421, 797, 421, 797, 427, 782, 428],
+          "text": "0,00",
+          "confidence": 0.354
+        }]
+      }, {
+        "boundingBox": [822, 421, 837, 420, 837, 427, 822, 427],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [822, 420, 837, 420, 837, 426, 823, 427],
+          "text": "0.00",
+          "confidence": 0.694
+        }]
+      }, {
+        "boundingBox": [859, 421, 876, 420, 876, 426, 859, 427],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [859, 421, 874, 420, 874, 426, 860, 427],
+          "text": "0.00",
+          "confidence": 0.694
+        }]
+      }, {
+        "boundingBox": [879, 422, 900, 421, 900, 428, 879, 428],
+        "text": "0,00",
+        "words": [{
+          "boundingBox": [884, 422, 899, 422, 900, 428, 885, 428],
+          "text": "0,00",
+          "confidence": 0.687
+        }]
+      }, {
+        "boundingBox": [10, 501, 74, 501, 74, 509, 10, 509],
+        "text": "CALCULO DO IN ON",
+        "words": [{
+          "boundingBox": [11, 502, 42, 502, 42, 509, 11, 509],
+          "text": "CALCULO",
+          "confidence": 0.425
+        }, {
+          "boundingBox": [44, 502, 53, 501, 53, 509, 44, 509],
+          "text": "DO",
+          "confidence": 0.321
+        }, {
+          "boundingBox": [55, 501, 62, 501, 62, 509, 55, 509],
+          "text": "IN",
+          "confidence": 0.252
+        }, {
+          "boundingBox": [64, 501, 74, 501, 74, 509, 64, 509],
+          "text": "ON",
+          "confidence": 0.178
+        }]
+      }, {
+        "boundingBox": [5, 511, 89, 510, 89, 518, 5, 520],
+        "text": "INSCRICAO MUNICIPAL",
+        "words": [{
+          "boundingBox": [7, 512, 47, 512, 47, 520, 7, 520],
+          "text": "INSCRICAO",
+          "confidence": 0.762
+        }, {
+          "boundingBox": [49, 512, 89, 510, 90, 519, 50, 520],
+          "text": "MUNICIPAL",
+          "confidence": 0.799
+        }]
+      }, {
+        "boundingBox": [242, 507, 348, 506, 348, 514, 242, 516],
+        "text": "VALOR TOTAL DOS SERVICOS",
+        "words": [{
+          "boundingBox": [244, 508, 270, 508, 270, 516, 244, 517],
+          "text": "VALOR",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [271, 508, 294, 507, 294, 516, 271, 516],
+          "text": "TOTAL",
+          "confidence": 0.912
+        }, {
+          "boundingBox": [296, 507, 310, 507, 310, 515, 296, 516],
+          "text": "DOS",
+          "confidence": 0.849
+        }, {
+          "boundingBox": [312, 507, 348, 506, 348, 515, 311, 515],
+          "text": "SERVICOS",
+          "confidence": 0.799
+        }]
+      }, {
+        "boundingBox": [473, 504, 577, 503, 577, 511, 473, 512],
+        "text": "BASE DE CALCULO DO ISSON",
+        "words": [{
+          "boundingBox": [474, 505, 492, 505, 492, 512, 474, 512],
+          "text": "BASE",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [494, 505, 504, 504, 504, 512, 494, 512],
+          "text": "DE",
+          "confidence": 0.957
+        }, {
+          "boundingBox": [505, 504, 539, 504, 539, 512, 505, 512],
+          "text": "CALCULO",
+          "confidence": 0.952
+        }, {
+          "boundingBox": [542, 504, 552, 504, 552, 512, 542, 512],
+          "text": "DO",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [555, 504, 576, 504, 576, 512, 555, 512],
+          "text": "ISSON",
+          "confidence": 0.727
+        }]
+      }, {
+        "boundingBox": [695, 503, 758, 502, 758, 511, 695, 511],
+        "text": "VALOR DO ISSON",
+        "words": [{
+          "boundingBox": [696, 504, 721, 503, 722, 512, 696, 511],
+          "text": "VALOR",
+          "confidence": 0.950
+        }, {
+          "boundingBox": [723, 503, 734, 503, 734, 511, 723, 512],
+          "text": "DO",
+          "confidence": 0.916
+        }, {
+          "boundingBox": [735, 503, 757, 503, 757, 511, 736, 511],
+          "text": "ISSON",
+          "confidence": 0.488
+        }]
+      }, {
+        "boundingBox": [441, 516, 464, 516, 464, 526, 441, 526],
+        "text": "0,00",
+        "words": [{
+          "boundingBox": [443, 516, 464, 516, 464, 526, 443, 526],
+          "text": "0,00",
+          "confidence": 0.689
+        }]
+      }, {
+        "boundingBox": [664, 515, 687, 514, 687, 524, 664, 525],
+        "text": "0,00",
+        "words": [{
+          "boundingBox": [664, 515, 686, 514, 687, 524, 665, 525],
+          "text": "0,00",
+          "confidence": 0.689
+        }]
+      }, {
+        "boundingBox": [884, 512, 911, 511, 911, 521, 884, 521],
+        "text": "0.00",
+        "words": [{
+          "boundingBox": [885, 511, 907, 511, 907, 521, 885, 521],
+          "text": "0.00",
+          "confidence": 0.722
+        }]
+      }, {
+        "boundingBox": [8, 537, 71, 536, 71, 543, 8, 544],
+        "text": "BAIXIS AROCKINALS",
+        "words": [{
+          "boundingBox": [9, 538, 33, 537, 33, 545, 9, 545],
+          "text": "BAIXIS",
+          "confidence": 0.291
+        }, {
+          "boundingBox": [34, 537, 71, 536, 72, 544, 34, 545],
+          "text": "AROCKINALS",
+          "confidence": 0.269
+        }]
+      }, {
+        "boundingBox": [5, 546, 118, 545, 118, 554, 5, 555],
+        "text": "INFORMACOES COMPLEMENTARES",
+        "words": [{
+          "boundingBox": [5, 547, 53, 547, 53, 555, 6, 555],
+          "text": "INFORMACOES",
+          "confidence": 0.570
+        }, {
+          "boundingBox": [54, 547, 118, 546, 118, 554, 55, 555],
+          "text": "COMPLEMENTARES",
+          "confidence": 0.459
+        }]
+      }, {
+        "boundingBox": [652, 538, 722, 537, 722, 545, 652, 546],
+        "text": "RESERVADO ADVISED",
+        "words": [{
+          "boundingBox": [653, 539, 692, 538, 692, 546, 654, 546],
+          "text": "RESERVADO",
+          "confidence": 0.437
+        }, {
+          "boundingBox": [693, 538, 721, 538, 721, 546, 693, 546],
+          "text": "ADVISED",
+          "confidence": 0.185
+        }]
+      }, {
+        "boundingBox": [4, 555, 243, 556, 243, 566, 4, 565],
+        "text": "PLACA ABC1234 - E MAIS UM MONTE DE COISAS DO BRASIL",
+        "words": [{
+          "boundingBox": [5, 556, 30, 556, 31, 565, 5, 564],
+          "text": "PLACA",
+          "confidence": 0.866
+        }, {
+          "boundingBox": [33, 556, 67, 557, 67, 565, 33, 565],
+          "text": "ABC1234",
+          "confidence": 0.736
+        }, {
+          "boundingBox": [69, 557, 72, 557, 72, 566, 69, 566],
+          "text": "-",
+          "confidence": 0.313
+        }, {
+          "boundingBox": [74, 557, 79, 557, 80, 566, 74, 566],
+          "text": "E",
+          "confidence": 0.884
+        }, {
+          "boundingBox": [81, 557, 103, 557, 103, 566, 81, 566],
+          "text": "MAIS",
+          "confidence": 0.856
+        }, {
+          "boundingBox": [104, 557, 116, 557, 116, 566, 105, 566],
+          "text": "UM",
+          "confidence": 0.911
+        }, {
+          "boundingBox": [120, 557, 151, 557, 151, 566, 120, 566],
+          "text": "MONTE",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [153, 557, 164, 557, 164, 566, 153, 566],
+          "text": "DE",
+          "confidence": 0.950
+        }, {
+          "boundingBox": [166, 557, 197, 557, 197, 566, 167, 566],
+          "text": "COISAS",
+          "confidence": 0.873
+        }, {
+          "boundingBox": [198, 557, 210, 557, 210, 566, 198, 566],
+          "text": "DO",
+          "confidence": 0.958
+        }, {
+          "boundingBox": [212, 557, 243, 556, 243, 565, 212, 566],
+          "text": "BRASIL",
+          "confidence": 0.951
+        }]
+      }, {
+        "boundingBox": [717, 577, 892, 575, 893, 595, 717, 596],
+        "text": "XML RECEBIDO",
+        "words": [{
+          "boundingBox": [719, 578, 767, 578, 767, 596, 719, 597],
+          "text": "XML",
+          "confidence": 0.799
+        }, {
+          "boundingBox": [775, 578, 891, 576, 891, 596, 775, 596],
+          "text": "RECEBIDO",
+          "confidence": 0.440
+        }]
+      }]
+    }],
+    "pageResults": [{
+      "page": 1,
+      "tables": [{
+        "rows": 7,
+        "columns": 6,
+        "cells": [{
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "text": "0-ENTRADA",
+          "boundingBox": [330, 42, 453, 42, 453, 53, 330, 53],
+          "elements": ["#/readResults/0/lines/7/words/0"]
+        }, {
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "columnSpan": 3,
+          "text": "CHAVE DE ACESSO",
+          "boundingBox": [453, 42, 769, 42, 769, 53, 453, 53],
+          "elements": ["#/readResults/0/lines/8/words/0", "#/readResults/0/lines/8/words/1", "#/readResults/0/lines/8/words/2"]
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "text": "1 - SAIDA",
+          "boundingBox": [330, 53, 386, 53, 386, 67, 330, 67],
+          "elements": ["#/readResults/0/lines/10/words/0", "#/readResults/0/lines/10/words/1", "#/readResults/0/lines/10/words/2"]
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "columnSpan": 3,
+          "text": "52201234 5678 0200 0203 5500 1000 0079 9876 7498",
+          "boundingBox": [453, 53, 769, 53, 769, 67, 453, 67],
+          "elements": ["#/readResults/0/lines/11/words/0", "#/readResults/0/lines/11/words/1", "#/readResults/0/lines/11/words/2", "#/readResults/0/lines/11/words/3", "#/readResults/0/lines/11/words/4", "#/readResults/0/lines/11/words/5", "#/readResults/0/lines/11/words/6", "#/readResults/0/lines/11/words/7", "#/readResults/0/lines/11/words/8"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "rowSpan": 2,
+          "text": "N\": 0005274 SERIE I",
+          "boundingBox": [330, 67, 386, 67, 386, 157, 330, 157],
+          "elements": ["#/readResults/0/lines/13/words/0", "#/readResults/0/lines/13/words/1", "#/readResults/0/lines/16/words/0", "#/readResults/0/lines/16/words/1"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "rowSpan": 2,
+          "text": "- FL1/1",
+          "boundingBox": [386, 67, 453, 67, 453, 157, 386, 157],
+          "elements": ["#/readResults/0/lines/14/words/0", "#/readResults/0/lines/14/words/1"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "text": "Consulta de autenticodade no portal nacional da NF-e www.me.fazenda.gov.br/portal ou no site da Sefaz Autorizadora",
+          "boundingBox": [453, 67, 742, 67, 742, 91, 453, 91],
+          "elements": ["#/readResults/0/lines/15/words/0", "#/readResults/0/lines/15/words/1", "#/readResults/0/lines/15/words/2", "#/readResults/0/lines/15/words/3", "#/readResults/0/lines/15/words/4", "#/readResults/0/lines/15/words/5", "#/readResults/0/lines/15/words/6", "#/readResults/0/lines/15/words/7", "#/readResults/0/lines/17/words/0", "#/readResults/0/lines/17/words/1", "#/readResults/0/lines/17/words/2", "#/readResults/0/lines/17/words/3", "#/readResults/0/lines/17/words/4", "#/readResults/0/lines/17/words/5", "#/readResults/0/lines/17/words/6"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 5,
+          "rowSpan": 2,
+          "text": "DT EMISSAO",
+          "boundingBox": [769, 67, 876, 67, 876, 157, 769, 157],
+          "elements": ["#/readResults/0/lines/29/words/0", "#/readResults/0/lines/29/words/1"]
+        }, {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "text": "PROTOCOLO DE AUTORIZACAO DE USO 1529012345678910 01/01/2020 CNPJ CPF CNPJ CPF",
+          "boundingBox": [453, 91, 683, 91, 683, 157, 453, 157],
+          "elements": ["#/readResults/0/lines/19/words/0", "#/readResults/0/lines/19/words/1", "#/readResults/0/lines/19/words/2", "#/readResults/0/lines/19/words/3", "#/readResults/0/lines/19/words/4", "#/readResults/0/lines/22/words/0", "#/readResults/0/lines/23/words/0", "#/readResults/0/lines/25/words/0", "#/readResults/0/lines/25/words/1", "#/readResults/0/lines/28/words/0", "#/readResults/0/lines/28/words/1"]
+        }, {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "text": "BAIRRO. DISTRITO",
+          "boundingBox": [453, 157, 683, 157, 683, 172, 453, 172],
+          "elements": ["#/readResults/0/lines/31/words/0", "#/readResults/0/lines/31/words/1"]
+        }, {
+          "rowIndex": 4,
+          "columnIndex": 4,
+          "text": "CEP",
+          "boundingBox": [742, 157, 769, 157, 769, 172, 742, 172],
+          "elements": ["#/readResults/0/lines/32/words/0"]
+        }, {
+          "rowIndex": 4,
+          "columnIndex": 5,
+          "text": "DT ENTRADA SAIDA",
+          "boundingBox": [769, 157, 876, 157, 876, 172, 769, 172],
+          "elements": ["#/readResults/0/lines/33/words/0", "#/readResults/0/lines/33/words/1", "#/readResults/0/lines/33/words/2"]
+        }, {
+          "rowIndex": 5,
+          "columnIndex": 1,
+          "text": "FONE / FAX",
+          "boundingBox": [386, 172, 453, 172, 453, 210, 386, 210],
+          "elements": ["#/readResults/0/lines/36/words/0", "#/readResults/0/lines/36/words/1", "#/readResults/0/lines/36/words/2"]
+        }, {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "text": "DISTRITO INDUSTRIAL INSCRICAO ESTADUAL MT",
+          "boundingBox": [453, 172, 683, 172, 683, 210, 453, 210],
+          "elements": ["#/readResults/0/lines/35/words/0", "#/readResults/0/lines/35/words/1", "#/readResults/0/lines/37/words/0", "#/readResults/0/lines/37/words/1", "#/readResults/0/lines/39/words/0"]
+        }, {
+          "rowIndex": 5,
+          "columnIndex": 5,
+          "text": "HORA SAIDA",
+          "boundingBox": [769, 172, 876, 172, 876, 210, 769, 210],
+          "elements": ["#/readResults/0/lines/38/words/0", "#/readResults/0/lines/38/words/1"]
+        }, {
+          "rowIndex": 6,
+          "columnIndex": 0,
+          "text": "|VENCIMENTO",
+          "boundingBox": [330, 210, 386, 210, 386, 224, 330, 224],
+          "elements": ["#/readResults/0/lines/44/words/2"]
+        }, {
+          "rowIndex": 6,
+          "columnIndex": 1,
+          "text": "VALOR",
+          "boundingBox": [386, 210, 453, 210, 453, 224, 386, 224],
+          "elements": ["#/readResults/0/lines/45/words/0"]
+        }, {
+          "rowIndex": 6,
+          "columnIndex": 2,
+          "text": "FATURA DUPLICATA VENCIMENTO VALOR",
+          "boundingBox": [453, 210, 683, 210, 683, 224, 453, 224],
+          "elements": ["#/readResults/0/lines/46/words/0", "#/readResults/0/lines/46/words/1", "#/readResults/0/lines/46/words/2", "#/readResults/0/lines/47/words/0"]
+        }, {
+          "rowIndex": 6,
+          "columnIndex": 3,
+          "columnSpan": 2,
+          "text": "FATURA DUPLICATA",
+          "boundingBox": [683, 210, 769, 210, 769, 224, 683, 224],
+          "elements": ["#/readResults/0/lines/48/words/0", "#/readResults/0/lines/48/words/1"]
+        }, {
+          "rowIndex": 6,
+          "columnIndex": 5,
+          "text": "VENCIMENTO VALOR",
+          "boundingBox": [769, 210, 876, 210, 876, 224, 769, 224],
+          "elements": ["#/readResults/0/lines/48/words/2", "#/readResults/0/lines/49/words/0"]
+        }]
+      }, {
+        "rows": 2,
+        "columns": 2,
+        "cells": [{
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "text": "VALOR ICMS",
+          "boundingBox": [741, 402, 762, 402, 762, 420, 741, 420],
+          "elements": ["#/readResults/0/lines/96/words/0", "#/readResults/0/lines/103/words/0"]
+        }, {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "text": "VALOR ICMS ST",
+          "boundingBox": [762, 402, 808, 402, 808, 420, 762, 420],
+          "elements": ["#/readResults/0/lines/97/words/0", "#/readResults/0/lines/104/words/0", "#/readResults/0/lines/104/words/1"]
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "text": "0.00",
+          "boundingBox": [741, 420, 762, 420, 762, 428, 741, 428],
+          "elements": ["#/readResults/0/lines/114/words/0"]
+        }]
+      }]
+    }]
+  }
+}
